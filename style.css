@@ -1,0 +1,247 @@
+/* Index-Index6 */
+@-ms-viewport{
+  width: device-width;
+}
+
+.nav-2{
+    font-size:150%;
+    font-weight:bold;
+  margin-top:15px;
+}
+
+a:hover{
+  color:purple;
+}
+
+.ul{
+    position:top;
+    display:flex;
+  list-style-type:none;
+  justify-content:center;
+  text-align:center;
+  background-color:#000000;
+}
+
+li{
+  margin:15px;
+  color:white;
+}
+
+.a{
+  text-decoration:none;
+  color:white;
+    font-size:150%
+}
+
+.footer{
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+    height:250px;
+}
+
+.copyright{
+    text-align:left;
+}
+
+.footer-a{
+    margin-left:5px;
+}
+
+.footer-p{
+    text-align:center;
+    margin-top:10px;
+    color:white;
+}
+
+.img{
+    float:left;
+    margin-top:10px;
+    margin-left:10px;
+    border:5px solid purple;
+}
+
+
+/* Index */
+
+.body-1{
+  background: linear-gradient(45deg, #f403fc, #9403fc) scroll;     
+}
+
+h4{
+    color:white;
+}
+
+h3{
+    color:white;
+}
+
+ol{
+    color:white;
+    font-weight:bold;
+}
+
+.button1{
+    color:white;
+    background-color:black;
+    background-attachment:fixed;
+}
+
+.p{
+    color:white;
+    font-weight:bold;  
+    
+}
+
+h1{
+    font-weight:bolder;
+    font-size:300%;
+}
+
+h2{
+}
+
+/* Index2 */
+
+.body-2{
+   background: linear-gradient(45deg, #f403fc, #9403fc) scroll;
+}
+
+h1{
+    color:white;
+    font-size:300%;
+    align-content: center;
+}
+
+.p-2{
+    color:white;
+}
+
+.h2-2{
+    color:white;
+}
+
+/* Index3 */
+
+.body-3{
+   background: linear-gradient(45deg, #f403fc, #9403fc) scroll;
+}
+
+h1{
+      color:white;
+    font-size:300%;
+    margin-top:30px;
+}
+
+/* Index4 */
+
+.body-4{
+    background: linear-gradient(45deg, #f403fc, #9403fc) scroll; 
+}
+
+h1{
+      color:white;
+    font-size:300%;
+}
+
+.h2-4{
+  
+}
+
+.p-3{
+    color:white;
+}
+
+/* Index5 */
+
+.body-5{
+    background: linear-gradient(45deg, #f403fc, #9403fc) scroll;  
+}
+
+h1{
+      color:white;
+    font-size:300%;
+}
+
+h2{
+}
+
+h3{
+}
+
+h4{
+}
+
+/* Index6 */
+
+.body-6{
+    background: linear-gradient(45deg, #f403fc, #9403fc) scroll;
+}
+
+h1{
+      color:white;
+    font-size:400%;
+}
+
+.form1{
+  text-align:center;
+  font-size:25px;
+}
+
+.label{
+    color:black;
+}
+
+#name{
+   width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+  background:none;
+}
+
+#email{
+   width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+  background:none;
+}
+
+#question-comments{
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+   background:none;
+}
+
+.button{
+  font-size:20px;
+}
+
+button:hover{
+    color:red;
+}
+
+.button2:hover{
+    color:red;
+}
+
+.button2{
+    font-size:20px;
+}
+
+.label{
+  color:white;
+}
+
+.a2{
+  color:black;
+}
